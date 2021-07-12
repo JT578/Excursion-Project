@@ -1,11 +1,13 @@
 html{
 	background-color: black;
 	text-align: center;
-	font-family: Verdana
+	font-family: Verdana;
+	color: white;
 
 }
 .link{
 	color: aquamarine;
+	text-decoration: underline;
 	 
 }
 .header{
@@ -13,4 +15,16 @@ html{
 	font-size: 50px;
 	color: white;
 	
+}
+.section-header{
+	font-weight: 300;
+	font-size: 42px;
+}
+.Slogan{
+	font-size:21px;
+	color: gray;
+}
+.watermark{
+	text-align: right;
+	color: gray
 }
